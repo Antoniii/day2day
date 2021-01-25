@@ -1,1 +1,1 @@
-# [2dayw/ome]{https://antoniii.github.io/2day}
+# [2dayw/ome](https://antoniii.github.io/2day)
